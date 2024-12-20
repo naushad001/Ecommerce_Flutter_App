@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499382768324",
+    "project_id": "emart-93110",
+    "storage_bucket": "emart-93110.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499382768324:android:f27f6996daaab076f1ef91",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVpYB2c5TXjx-1DyHpUfvalbA-Ti2KSJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
